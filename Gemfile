@@ -9,4 +9,4 @@ gem "puma"
 gem "reel"
 gem "http"
 gem "webrick"
-gem "rack", "3.0", force_version: true
+gem "nio4r", "= 2.7.1"
